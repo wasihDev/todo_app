@@ -1,8 +1,8 @@
 
 ## App Demo
-![Demo Video](demo_video.mp4)
-<video src="demo_video.mp4" width="320" height="200" controls preload></video>
+![Demo Video Link]
 https://github.com/user-attachments/assets/290ca56f-969b-42df-b503-78d41ced4e79
+
 # ToDo App with API & Shimmer UI
 
 A Flutter application that fetches todos from JSONPlaceholder API and displays them with a shimmer loading effect.
