@@ -1,6 +1,7 @@
 
 ## App Demo
-![Demo Video](./demo_video.mov)
+![Demo Video](./demo_video.mp4)
+<video src="./demo_video.mp4" width="320" height="200" controls preload></video>
 
 # ToDo App with API & Shimmer UI
 
