@@ -1,16 +1,37 @@
-# todo_app
 
-A new Flutter project.
+## App Demo
+<video src="demo.mov" width="320" height="200" controls preload></video>
 
-## Getting Started
+# ToDo App with API & Shimmer UI
 
-This project is a starting point for a Flutter application.
+A Flutter application that fetches todos from JSONPlaceholder API and displays them with a shimmer loading effect.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Fetch todos from API with loading and error states
+- Shimmer loading effect while data is being fetched
+- Pull-to-refresh functionality
+- Add new todos locally
+- Toggle todo completion status
+- Swipe to delete with undo functionality
+- Clean architecture with Provider state management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Clone the repository
+2. Run `flutter pub get` to install dependencies
+3. Run `flutter run` to start the app
+
+## Dependencies
+
+- http: For API calls
+- provider: For state management
+- shimmer: For loading effects
+
+## Folder Structure
+
+- `models/`: Contains data models
+- `providers/`: Contains state management logic
+- `services/`: Contains API service
+- `screens/`: Contains app screens
+- `widgets/`: Contains reusable widgets
