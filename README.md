@@ -1,6 +1,6 @@
 
 ## App Demo
-![Demo Video](./demo.mov)
+![Demo Video](./demo_video.mov)
 
 # ToDo App with API & Shimmer UI
 
